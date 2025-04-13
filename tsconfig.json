@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "declarationDir": "dist"
   },
-  "files": ["src/goodleap-nav-bar.tsx"],
+  "files": ["src/goodluckjt-nav-bar.tsx"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }
